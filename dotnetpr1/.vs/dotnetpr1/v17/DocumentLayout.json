@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ragha\\source\\repos\\dotnetpr1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A08613-5EE8-4C6F-A015-65D7915CDEAA}|dotnetpr1\\dotnetpr1.csproj|C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\data.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A08613-5EE8-4C6F-A015-65D7915CDEAA}|dotnetpr1\\dotnetpr1.csproj|solutionrelative:dotnetpr1\\data.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A08613-5EE8-4C6F-A015-65D7915CDEAA}|dotnetpr1\\dotnetpr1.csproj|c:\\users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9A08613-5EE8-4C6F-A015-65D7915CDEAA}|dotnetpr1\\dotnetpr1.csproj|solutionrelative:dotnetpr1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A08613-5EE8-4C6F-A015-65D7915CDEAA}|dotnetpr1\\dotnetpr1.csproj|C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\data.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C9A08613-5EE8-4C6F-A015-65D7915CDEAA}|dotnetpr1\\dotnetpr1.csproj|solutionrelative:dotnetpr1\\data.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A08613-5EE8-4C6F-A015-65D7915CDEAA}|dotnetpr1\\dotnetpr1.csproj|c:\\users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\data.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A08613-5EE8-4C6F-A015-65D7915CDEAA}|dotnetpr1\\dotnetpr1.csproj|solutionrelative:dotnetpr1\\data.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\Web.config",
+              "RelativeDocumentMoniker": "dotnetpr1\\Web.config",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\Web.config",
+              "RelativeToolTip": "dotnetpr1\\Web.config",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-27T10:44:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\data.aspx.designer.cs",
+              "RelativeDocumentMoniker": "dotnetpr1\\data.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\data.aspx.designer.cs",
+              "RelativeToolTip": "dotnetpr1\\data.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:39:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "data.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\data.aspx.cs",
+              "RelativeDocumentMoniker": "dotnetpr1\\data.aspx.cs",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\data.aspx.cs",
+              "RelativeToolTip": "dotnetpr1\\data.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:37:23.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.aspx",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\data.aspx",
+              "RelativeDocumentMoniker": "dotnetpr1\\data.aspx",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\dotnetpr1\\dotnetpr1\\data.aspx",
+              "RelativeToolTip": "dotnetpr1\\data.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-26T13:33:49.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
